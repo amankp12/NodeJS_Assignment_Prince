@@ -1,0 +1,15 @@
+Hello My name is Aman Kumar. I am a software engineer and currently working on my master’s degree in 
+computer science at the University of Maryland, College Park (UMD). In addition to programming, I have experience
+with web development using HTML/CSS, JavaScript, PHP, Java Servlet, and Python.
+I have completed several projects during my undergraduate studies that involved building websites from scratch
+using these languages. These experiences have given me an understanding of how different technologies can be 
+used together to create functional and visually appealing websites. One project that stands out was developing a
+website for a local non-profit organization called "The Humane Society," which required creating a user-friendly
+interface while also ensuring accessibility for people with disabilities. This project taught me valuable skills 
+such as responsive design, SEO optimization, and social media integration. 
+
+In terms of personal interests, I enjoy playing video games, reading books, and spending time with friends.
+However, my main interest is in the field of computer science. This  passion for technology started when I was
+just nine years old, when I built my first website from scratch  using HTML5. Since then, I have been constantly
+learning new programming languages and developing websites to show case my skills.  One project that stands out from
+the rest is called "Tic Tac Toe".
